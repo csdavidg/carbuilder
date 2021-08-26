@@ -1,8 +1,8 @@
-package build.vehicle.car;
+package com.build.vehicle.car;
 
-import build.vehicle.doors.Door;
-import build.vehicle.glasses.Glass;
-import build.vehicle.tires.Tire;
+import com.build.vehicle.doors.Door;
+import com.build.vehicle.glasses.Glass;
+import com.build.vehicle.tires.Tire;
 
 public class Car {
 
@@ -10,7 +10,7 @@ public class Car {
     private Tire tire;
     private Glass windscreen;
 
-    public Car(Door door, Tire tire, build.vehicle.glasses.Glass glass) {
+    public Car(Door door, Tire tire, com.build.vehicle.glasses.Glass glass) {
         this.door = door;
         this.tire = tire;
         this.windscreen = glass;

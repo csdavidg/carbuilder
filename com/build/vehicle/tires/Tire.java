@@ -1,4 +1,4 @@
-package build.vehicle.tires;
+package com.build.vehicle.tires;
 
 public class Tire {
 

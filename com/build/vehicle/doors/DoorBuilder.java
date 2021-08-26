@@ -1,7 +1,7 @@
-package build.vehicle.doors;
+package com.build.vehicle.doors;
 
-import build.vehicle.glasses.Glass;
-import build.vehicle.glasses.GlassBuilder;
+import com.build.vehicle.glasses.Glass;
+import com.build.vehicle.glasses.GlassBuilder;
 
 public class DoorBuilder {
 

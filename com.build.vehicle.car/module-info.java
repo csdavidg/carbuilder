@@ -5,6 +5,6 @@ module com.build.vehicle.car {
     requires com.build.vehicle.tires;
     
     //SERVICE MODULES DEPENDENCIES
-    requires com.service.tour.api;
+    //requires com.service.tour.api;
     requires com.service.tour.locator;
 }
